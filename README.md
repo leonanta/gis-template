@@ -30,7 +30,7 @@ So, yes! You can win a T-Shirt and few awesome stickers to attach on your laptop
 # 👍 This is Awesome! How Can I Contribute?
 
 1. **Star this repository(Optional).**
-2. **Add simple example of usage leaflet.js**
+2. **Add simple example of usage leaflet.js then add your profile into contributor directory**
 3. **Now click on Propose button.**
 4. **Create a new pull request.**
 5. **Wait for your Pull Request to be reviewed and merged!**
