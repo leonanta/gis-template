@@ -36,3 +36,5 @@ So, yes! You can win a T-Shirt and few awesome stickers to attach on your laptop
 5. **Wait for your Pull Request to be reviewed and merged!**
 6. **Enjoy and welcome to Hacktoberfest 2021 and Keep Contributing :)**
 
+Note : Only add profile will NOT be allowed and NOT be merged 
+
